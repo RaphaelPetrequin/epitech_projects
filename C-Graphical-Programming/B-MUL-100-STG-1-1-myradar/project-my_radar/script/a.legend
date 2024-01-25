@@ -1,0 +1,16 @@
+The script generator will create a ".rdr" file on the maps' folder.
+The file will be filled with:
+
+ → a first paragraph that contains information about Aircraft:
+    • Two integers corresponding to the departure x/y coordinates,
+    • Two integers corresponding to the arrival x/y coordinates,
+    • One integer corresponding to the aircraft’s speed (in pixels per second),
+    • One integer corresponding to the delay (in seconds) before the aircraft takes off.
+
+→ a second paragraph that contains information about Control towers:
+    • Two integers corresponding to the control tower x/y coordinates,
+    • One integer corresponding to the radius of the tower’s control area
+    (corresponding to the percentage of the greatest side of the window in pixel).
+
+The two paragraphs are separated by the character '\n'.
+The piece of information are separeted by spaces.
