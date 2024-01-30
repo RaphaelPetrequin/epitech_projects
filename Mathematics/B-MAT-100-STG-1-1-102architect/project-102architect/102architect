@@ -68,7 +68,6 @@ while (index < len(arguments)):
             handling_error_r_s(arguments, index);
         index = index + 2;
 
-    #if too much arguments or no transformation
     else:
         print ("Too much arguments or no transformation", sep='', file=sys.stderr);
         exit(84)
@@ -131,7 +130,6 @@ def main():
         if sys.argv[index] == "-s":
             reflection(float(sys.argv[index + 1]))
 
-    #if there is -0, make abs(-0)
     for i in range(0, 9):
         if str(matrice[i]) == "-3.6739403974420594e-16" or \
            str(matrice[i]) == "-6.123233995736766e-17":
@@ -146,7 +144,6 @@ def main():
     it_was = matrice[0] * x + matrice[1] * y + matrice[2]
     it_is = matrice[3] * x + matrice[4] * y + matrice[5]
 
-    # Force float to be... float
     print(f"({float(x):.2f}, {float(y):.2f}) => ({it_was:.2f}, {it_is:.2f})")
 #____________________________________________________________________________
 
