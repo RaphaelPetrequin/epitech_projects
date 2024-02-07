@@ -1,9 +1,8 @@
 # Elementary Programming in C
 
-## Table of Contents
+Grade: B encouragements
 
-### First semester
-    Grade: B encouragements
+## Table of Contents
 
 ### setting_up - solo project
     Description: This project aimed to find the largest possible square on a board while avoiding obstacles.

@@ -1,9 +1,8 @@
 # Mathematics
 
-## Table of Contents
+Grade: A
 
-### First semester
-    Grade: A
+## Table of Contents
 
 ### 101pong - duo project
     Description: The goal of this project was to work on a 3D version of the game « pong ».

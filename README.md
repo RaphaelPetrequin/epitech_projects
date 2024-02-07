@@ -5,17 +5,18 @@ This repository contains all my modules with their corresponding projects and su
 
 ## Table of Contents
 
+## First semester
 ### Unix-and-C-Lab-Seminar
-  [DESCRIPTION](./Unix-and-C-Lab-Seminar/README.md)
+  [DESCRIPTION](./Unix-and-C-Lab-Seminar/First_semester/README.md)
 
 ### C-Graphical-Programming
-  [DESCRIPTION](./C-Graphical-Programming/README.md)
+  [DESCRIPTION](./C-Graphical-Programming/First_semester/README.md)
 
 ### Elementary-Programming-in-C
-  [DESCRIPTION](./Elementary-Programming-in-C/README.md)
+  [DESCRIPTION](./Elementary-Programming-in-C/First_semester/README.md)
 
 ### Unix System Programming
-  [DESCRIPTION](./Unix-System-Programming/README.md)
+  [DESCRIPTION](./Unix-System-Programming/First_semester/README.md)
 
 ### Mathematics
-  [DESCRIPTION](./Mathematics/README.md)
+  [DESCRIPTION](./Mathematics/First_semester/README.md)

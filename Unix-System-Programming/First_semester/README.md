@@ -1,9 +1,8 @@
 # Unix System Programming
 
-## Table of Contents
+Grade: C
 
-### First semester
-    Grade: Non Assigned
+## Table of Contents
 
 ### my_ls - solo project
     Description: This project aimed to remake the ls command

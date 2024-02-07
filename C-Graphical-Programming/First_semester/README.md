@@ -1,9 +1,8 @@
 # C Graphical Programming
 
-## Table of Contents
+Grade: A medal
 
-### First semester
-    Grade: A medal
+## Table of Contents
 
 ### my_hunter - solo project
     Description: The goal of this project was to create our first game, based of the one called « Hunter ».
