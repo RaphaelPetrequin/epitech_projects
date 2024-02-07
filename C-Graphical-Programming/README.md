@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ### First semester
-    Grade: A+
+    Grade: A medal
 
 ### my_hunter - solo project
     Description: The goal of this project was to create our first game, based of the one called « Hunter ».

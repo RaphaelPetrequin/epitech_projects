@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ### First semester
-    Grade: B+
+    Grade: B encouragements
 
 ### setting_up - solo project
     Description: This project aimed to find the largest possible square on a board while avoiding obstacles.
