@@ -7,7 +7,7 @@ This repository contains all my modules with their corresponding projects and su
 
 ## First semester
 ### Unix-and-C-Lab-Seminar
-  [DESCRIPTION](./Unix-and-C-Lab-Seminar/First_semester/README.md)
+  [DESCRIPTION](./Unix-and-C-Lab-Seminar/README.md)
 
 ### C-Graphical-Programming
   [DESCRIPTION](./C-Graphical-Programming/First_semester/README.md)
